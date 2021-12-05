@@ -118,7 +118,7 @@ Gelen kodun bağlantıları sayıya dönüştürülmüştü ve bu sayı 1. ve 10
 3. **exec generates_code** scritpi ile **generates_code** procedure'ünü oluşturun.
 4. **tbl_fmcg_code** tablosuna 1000 adet kod oluşacak.
 5. Bu kodları **exec check_code @Code = 'oluşan kodlardan bir tanesi', @IsValid = 0** ile kontrol edebilirsiniz.
-6. kontrol procedure'ü oluşanların dışında bir kod girerseniz 0 dönecektir, oluşanlar için 1 deönecektir.
+6. Kontrol procedure'ü oluşanların dışında bir kod girerseniz 0 dönecektir, oluşanlar için 1 deönecektir.
 
 
 # SONUÇ
