@@ -123,5 +123,5 @@ Gelen kodun bağlantıları sayıya dönüştürülmüştü ve bu sayı 1. ve 10
 
 # SONUÇ
 
-ACDEFGHKLMNPRTXYZ234579 karakter kümesini içeren, ardışık olmayacak şekilde belirlenen algoritmaya uygun olarak kodlar oluşturulmuştur.
-Yine kod kontrolü kod tablosuna bakılmaksızın oluşturulan algoritma ile kontrol edilmiştir.
+ACDEFGHKLMNPRTXYZ234579 karakter kümesini içeren, ardışık olmayacak şekilde belirlenen algoritmaya uygun şekilde eşsiz kodlar oluşturulmuştur.
+Kod doğruluğu, kod tablosuna bakılmaksızın oluşturulan algoritma ile kontrol edilmiştir.
