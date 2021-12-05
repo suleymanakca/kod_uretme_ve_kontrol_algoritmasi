@@ -94,7 +94,7 @@ Az önce oluşturduğum 10161852622 sayısını, 8 kolondan ve 40.320 satırdan 
 10161852622 sayısı, ilk karaktere büyük veya eşit ve son karakterden küçük veya eşit olmalıdır.
 
 ### Son kontrol olamasaydı ne olurdu?
-Son kontrol olmasaydı, bağlantıları (2),(5),(6),(10),(16),(18),(21),(22) oluşan bir kod geldiğini varsayalım. Bu kod P(8,7)= 40.320 adet bağlantı çeşidinden harhangi biri olabilirdi. Bağlantılardan oluşturulan sayıları küçükten büyüğe sıralayarak ve ilk 1000'ini alarak hangi bğlantıları kullandığımı bilerek herhngi bir kod olma ihtimalini devre dışı bıraktım.
+Son kontrol olmasaydı, bağlantıları (2),(5),(6),(10),(16),(18),(21),(22) oluşan bir kod geldiğini varsayalım. Bu kod P(8,7)= 40.320 adet bağlantı çeşidinden harhangi biri olabilirdi. Bağlantılardan oluşturulan sayıları küçükten büyüğe sıraladım. İlk 1000'ini alarak hangi bağlantıları kullandığımı bildim. Buı şekilde herhangi bir kod olma ihtimalini devre dışı bıraktım.
 
 Not: Çözüm 1000 kod oluşturmak için yazılmıştır.
 
